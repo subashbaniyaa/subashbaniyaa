@@ -1,8 +1,7 @@
 <h1>Hi 👋, I'm Milan Bhandari </h1>
   <img src="https://i.postimg.cc/9MrfFmbD/danCing.gif" alt="Dancing" width="400" />
 <p>
-  Hi, I’m Milan Bhandari — a passionate developer who loves coding, learning new tech, and diving into tech. 
-  Always ready to build cool projects and level up! 
+  Hi, I’m a full stack software engineer with a strong focus in front-end and system design. 
 </p>
 
 <h2>🚀 Languages and Tools I Use</h2>
