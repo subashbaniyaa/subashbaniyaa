@@ -1,8 +1,4 @@
 <p align="center">
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Flags/Pirate%20Flag.webp" alt="Pirate Flag" width="75" height="75" />
-</p>
-
-<p align="center">
   <!-- Tech Stack -->
   <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" />
   <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />
