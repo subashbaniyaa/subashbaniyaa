@@ -1,3 +1,5 @@
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=subashbaniyaa&bg_color=0d1117&color=ffffff&line=00e676&point=ffffff&area=true&hide_border=true)](https://github.com/subashbaniyaa/github-readme-activity-graph)
+
 <p align="center">
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Flags/Pirate%20Flag.webp" alt="Pirate Flag" width="75" height="75" />
 </p>
