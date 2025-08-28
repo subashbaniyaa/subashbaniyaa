@@ -1,8 +1,4 @@
-<h1>Hi 👋, I'm Milan Bhandari </h1>
-  <img src="https://i.postimg.cc/9MrfFmbD/danCing.gif" alt="Dancing" width="400" />
-<p>
-  Hi, I’m a full stack software engineer with a strong focus in front-end and system design. 
-</p>
+## Hi, I’m a full stack software engineer with a strong focus in front-end and system design. 
 
 <h2>🚀 Languages and Tools I Use</h2>
 <p><a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="42" height="42" /></a>
@@ -21,20 +17,12 @@
 <a target="_blank" href="https://www.instagram.com/subashbaniyaa" style="display: inline-block;"><img src="https://img.shields.io/badge/instagram-logo?style=for-the-badge&logo=instagram&logoColor=white&color=#F35369" alt="instagram" /></a></p>
 
 <p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=subashbaniyaa&show_icons=true&locale=en" alt="milancodess" />
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=subashbaniyaa&" alt="subashbaniyaa" />
 </p>
 <p>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=subashbaniyaa&" alt="milancodess" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=subashbaniyaa&show_icons=true&locale=en" alt="subashbaniyaa" />
 </p>
 <p>
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=subashbaniyaa&show_icons=true&locale=en&layout=compact" alt="subashbaniyaa" />
-</p>
-<p>
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=subashbaniyaa" alt="subashbaniyaa" />
-  </a>
-</p>
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=subashbaniyaa&label=Profile%20views&color=0e75b6&style=flat" alt="subashbaniyaa" />
 </p>
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=subashbaniyaa&radius=16&theme=github&area=true&order=5" height="300" alt="activity-graph" />
