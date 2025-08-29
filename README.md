@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=subashbaniyaa&limit=5&theme=dark&combine_all_yearly_contributions=true" alt="Contributor Stats" />
+  <img src="https://github-contributor-stats.vercel.app/api?username=subashbaniyaa&limit=15&theme=dark&combine_all_yearly_contributions=true" alt="Contributor Stats" />
 </p>
 
 <p align="center">
