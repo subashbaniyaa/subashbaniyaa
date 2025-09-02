@@ -8,7 +8,7 @@
 
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=subashbaniyaa&show_icons=true&locale=en&layout=compact&theme=dark" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=subashbaniyaa&show_icons=true&locale=en&layout=donut-vertical&theme=dark" alt="Top Languages" />
 </p>
 
 <p align="center">
