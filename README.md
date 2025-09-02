@@ -1,8 +1,4 @@
 <p align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=subashbaniyaa&limit=15&theme=dark&combine_all_yearly_contributions=true" alt="Contributor Stats" />
-</p>
-
-<p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=subashbaniyaa&theme=dark" alt="GitHub Streak" />
 </p>
 
