@@ -10,7 +10,3 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=subashbaniyaa&show_icons=true&locale=en&layout=donut-vertical&theme=dark" alt="Top Languages" />
 </p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=subashbaniyaa&radius=16&theme=github&area=true&order=5" height="300" alt="Activity Graph" />
-</p>
