@@ -1,9 +1,4 @@
-# Subash Baniya
-
-Developer · Designer · Creative Technologist  
-Website: [https://www.subash-baniya.com.np](https://www.subash-baniya.com.np)
-
-A minimal, professional summary of skills and GitHub overview.
+**https://www.subash-baniya.com.np ⚡**
 
 ## Languages & Tools
 
