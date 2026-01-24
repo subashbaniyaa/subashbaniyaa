@@ -2,4 +2,4 @@
 
 **https://www.subash-baniya.com.np ⚡**
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=subashbaniyaa&theme=dark&hide_border=true&background=00000000)
+[![GitHub Streak](https://streak-stats.demolab.com?user=subashbaniyaa&border_radius=10)](https://git.io/streak-stats)
