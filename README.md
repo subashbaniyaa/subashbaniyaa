@@ -1,43 +1,7 @@
 <div align="center">
   
-  <!-- ═══════════════════════════════════════════════════════════════════════════ -->
-  <!-- 🎯 ANIMATED HEADER                                                          -->
-  <!-- ═══════════════════════════════════════════════════════════════════════════ -->
-  
-  <img src="./assets/header-animation.svg" alt="Redoyanul Haque - AI Developer" width="100%"/>
-  
-  <br/>
-  
-  <!-- ═══════════════════════════════════════════════════════════════════════════ -->
-  <!-- 📊 PROFILE BADGES                                                           -->
-  <!-- ═══════════════════════════════════════════════════════════════════════════ -->
-  
-  <a href="https://github.com/subashbaniyaa">
-    <img src="https://komarev.com/ghpvc/?username=subashbaniyaa&label=Profile%20Views&color=764ba2&style=flat-square&base=1700" alt="Profile Views"/>
-  </a>
-  &nbsp;
-  <a href="https://github.com/subashbaniyaa?tab=repositories">
-    <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Fsubashbaniyaa&query=%24.public_repos&suffix=%2B&label=Repositories&style=flat-square&color=f093fb&labelColor=1a1b26" alt="Repositories"/>
-  </a>
-  &nbsp;
-  <a href="https://github.com/subashbaniyaa?tab=followers">
-    <img src="https://img.shields.io/github/followers/subashbaniyaa?label=Followers&style=flat-square&color=667eea&labelColor=1a1b26" alt="Followers"/>
-  </a>
-  &nbsp;
-  <a href="https://github.com/subashbaniyaa">
-    <img src="https://img.shields.io/github/stars/subashbaniyaa?label=Stars&style=flat-square&color=764ba2&labelColor=1a1b26" alt="Stars"/>
-  </a>
-  
-</div>
-
-<br/>
-
-<!-- ═══════════════════════════════════════════════════════════════════════════ -->
-<!-- 🖥️ TERMINAL INTRO SECTION                                                   -->
-<!-- ═══════════════════════════════════════════════════════════════════════════ -->
-
 <div align="center">
-  <img src="terminal-intro.svg" alt="Terminal Introduction" width="650"/>
+  <img src="terminal-intro.svg" alt="Terminal Introduction" width="700"/>
 </div>
 
 <br/>
