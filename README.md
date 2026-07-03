@@ -8,16 +8,16 @@
 <br>
 <div align="center">
 <td align="center">
-<img alt="" width="500" src="anime.svg" alt=""></img>
+<img alt="" width="500" src="./assets/anime.svg" alt=""></img>
 </td>
   <br>
   <td align="center">
-<img alt="" width="500" src="waifu.svg" alt=""></img>
+<img alt="" width="500" src="./assets/waifu.svg" alt=""></img>
 </td>
   <br>
   <br>
 <td align="center">
-<img alt="" width="500" src="manga.svg" alt=""></img>
+<img alt="" width="500" src="./assets/manga.svg" alt=""></img>
 </td>
   <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0323.gif" border="0" alt="animated-line-image-0323" /></a>
   <br>
