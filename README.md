@@ -1,7 +1,7 @@
 <div align="center">
 
 <td align="center">
-<img alt="" width="400" src="data.svg" alt=""></img>
+<img alt="" width="400" src="anilist.svg" alt=""></img>
 </td>
 <br/><br/>
 
