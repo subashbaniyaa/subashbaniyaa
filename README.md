@@ -1,6 +1,5 @@
 <div align="center">
 <td align="center">
-<img alt="" width="500" src="anime.svg" alt=""></img>
 </td>
   <br><div align="center">
   <a href="https://www.animatedimages.org/cat-computer-56.htm"><img src="https://www.animatedimages.org/data/media/56/animated-computer-image-0053.gif" border="0" alt="animated-computer-image-0053" /></a>
