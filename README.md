@@ -1,15 +1,15 @@
 <div align="center">
 <td align="center">
-<img alt="" width="555" src="anime.svg" alt=""></img>
+<img alt="" width="500" src="anime.svg" alt=""></img>
 </td>
   <br>
   <td align="center">
-<img alt="" width="555" src="waifu.svg" alt=""></img>
+<img alt="" width="500" src="waifu.svg" alt=""></img>
 </td>
   <br>
   <br>
 <td align="center">
-<img alt="" width="555" src="manga.svg" alt=""></img>
+<img alt="" width="500" src="manga.svg" alt=""></img>
 </td>
 <br/>
 <table>
