@@ -109,8 +109,6 @@ life_philosophy: "Code is poetry. AI is the canvas."
 </p>
 
 </div>
-
-  <br/>
   
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,16,18,20&height=80&section=footer"/>
   
