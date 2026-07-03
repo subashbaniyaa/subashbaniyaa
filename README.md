@@ -19,9 +19,10 @@
 ### 🎯 What I Do
 
 ```yaml
-name: Subash Baniya
+name: Subash
 located_in: Nepal
-current_status: Student & Self-Taught Developer/Designer
+current_status: Designer/Developer
+
 
 areas_of_expertise:
   - 🤖 AI & Machine Learning
