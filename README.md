@@ -5,7 +5,9 @@
 </div>
 
 <br/>
-
+<td align="center">
+<img alt="" width="400" src="data.svg" alt=""></img>
+</td>
 <br/><br/>
 
 <table>
