@@ -8,7 +8,7 @@
 </td>
   <br>
 <td align="center">
-<img alt="" width="400" src=waifu.svg" alt=""></img>
+<img alt="" width="400" src="waifu.svg" alt=""></img>
 </td>
 <br/><
 <table>
