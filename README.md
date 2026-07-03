@@ -11,6 +11,10 @@
 <td align="center">
 <img alt="" width="500" src="manga.svg" alt=""></img>
 </td>
+  <a href="https://www.animatedimages.org/cat-lines-562.htm"><img src="https://www.animatedimages.org/data/media/562/animated-line-image-0323.gif" border="0" alt="animated-line-image-0323" /></a>
+  <br>
+  <br>
+  <br>
 <div align="center">
 <!-- 💻 LANGUAGES -->
 <h4>Languages</h4>
