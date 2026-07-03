@@ -1,10 +1,5 @@
 <div align="center">
-  
-<div align="center">
-  <img src="terminal-intro.svg" alt="Terminal Introduction" width="700"/>
-</div>
 
-<br/>
 <td align="center">
 <img alt="" width="400" src="data.svg" alt=""></img>
 </td>
