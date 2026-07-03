@@ -67,7 +67,7 @@ life_philosophy: "Code is poetry. AI is the canvas."
 
 <div align="center">
 
-<br/><br/>
+<br/>
 
 <div align="center">
 
