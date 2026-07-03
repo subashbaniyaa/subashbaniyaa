@@ -4,13 +4,14 @@
 </td>
   <br>
   <td align="center">
-<img alt="" width="400" src="manga.svg" alt=""></img>
-</td>
-  <br>
-<td align="center">
 <img alt="" width="400" src="waifu.svg" alt=""></img>
 </td>
-<br/><
+  <br>
+  <br>
+<td align="center">
+<img alt="" width="400" src="manga.svg" alt=""></img>
+</td>
+<br/>
 <table>
 <tr>
 <td width="55%" valign="top">
