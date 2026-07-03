@@ -11,46 +11,7 @@
 <td align="center">
 <img alt="" width="500" src="manga.svg" alt=""></img>
 </td>
-<br/>
-<table>
-<tr>
-<td width="55%" valign="top">
-
-### 🎯 What I Do
-
-```yaml
-name: Subash
-located_in: Nepal
-current_status: Designer/Developer
-
-
-areas_of_expertise:
-  - 🤖 AI & Machine Learning
-  - 🐍 Python Development
-  - 💬 Chatbot Architecture
-  - 🌐 Full-Stack Web Development
-  - 🧠 Deep Learning & NLP
-
-currently_building:
-  - Next-gen Conversational AI Agents
-  - JARVIS-like Personal Assistant
-  - Developer Productivity Tools
-
-life_philosophy: "Code is poetry. AI is the canvas."
-```
-
-</td>
-</tr>
-</table>
-
-<br/>
-
 <div align="center">
-
-<br/>
-
-<div align="center">
-
 <!-- 💻 LANGUAGES -->
 <h4>Languages</h4>
 <p>
