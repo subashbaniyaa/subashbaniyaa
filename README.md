@@ -1,5 +1,8 @@
 <div align="center">
-
+<td align="center">
+<img alt="" width="400" src="one-piece.svg" alt=""></img>
+</td>
+  <br>
 <td align="center">
 <img alt="" width="400" src="data.svg" alt=""></img>
 </td>
