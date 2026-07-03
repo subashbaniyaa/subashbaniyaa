@@ -2,7 +2,8 @@
 <td align="center">
 </td>
   <br><div align="center">
-  <a href="https://www.animatedimages.org/cat-computer-56.htm"><img src="https://www.animatedimages.org/data/media/56/animated-computer-image-0053.gif" border="0" alt="animated-computer-image-0053" /></a>
+  <img src="https://www.animatedimages.org/data/media/56/animated-computer-image-0053.gif"
+     alt="animated-computer-image-0053">
 </div>
 <br>
 <div align="center">
