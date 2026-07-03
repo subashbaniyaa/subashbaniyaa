@@ -39,27 +39,6 @@ life_philosophy: "Code is poetry. AI is the canvas."
 ```
 
 </td>
-<td width="45%" valign="top">
-
-### 🚀 Current Focus
-
-- 🔬 **Research & Build** advanced AI systems
-- 🤖 **Developing** intelligent chatbots
-- 🧠 **Exploring** LLMs & transformers
-- 🌟 **Contributing** to open-source
-- 📚 **Mentoring** aspiring developers
-- 🏆 **Competing** in programming olympiads
-
-<br/>
-
-### 💡 Quick Facts
-
-- 🎓 Competitive programming mindset
-- 🔥 Passionate about automation
-- 🌱 Always learning new technologies
-- ☕ Fueled by coffee & curiosity
-
-</td>
 </tr>
 </table>
 
@@ -72,7 +51,7 @@ life_philosophy: "Code is poetry. AI is the canvas."
 <div align="center">
 
 <!-- 💻 LANGUAGES -->
-<h4>💻 Languages</h4>
+<h4>Languages</h4>
 <p>
   <a href="https://www.python.org/" target="_blank"><img src="https://skillicons.dev/icons?i=python&theme=dark" alt="Python" title="Python"/></a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://skillicons.dev/icons?i=js&theme=dark" alt="JavaScript" title="JavaScript"/></a>
@@ -84,7 +63,7 @@ life_philosophy: "Code is poetry. AI is the canvas."
 </p>
 
 <!-- 🤖 AI & MACHINE LEARNING -->
-<h4>🤖 AI & Machine Learning</h4>
+<h4>AI & Machine Learning</h4>
 <p>
   <a href="https://www.tensorflow.org/" target="_blank"><img src="https://skillicons.dev/icons?i=tensorflow&theme=dark" alt="TensorFlow" title="TensorFlow"/></a>
   <a href="https://pytorch.org/" target="_blank"><img src="https://skillicons.dev/icons?i=pytorch&theme=dark" alt="PyTorch" title="PyTorch"/></a>
@@ -93,7 +72,7 @@ life_philosophy: "Code is poetry. AI is the canvas."
 </p>
 
 <!-- 🌐 WEB DEVELOPMENT -->
-<h4>🌐 Web Development</h4>
+<h4>Web Development</h4>
 <p>
   <a href="https://reactjs.org/" target="_blank"><img src="https://skillicons.dev/icons?i=react&theme=dark" alt="React" title="React"/></a>
   <a href="https://nextjs.org/" target="_blank"><img src="https://skillicons.dev/icons?i=nextjs&theme=dark" alt="Next.js" title="Next.js"/></a>
@@ -106,7 +85,7 @@ life_philosophy: "Code is poetry. AI is the canvas."
 </p>
 
 <!-- 🗄️ DATABASES -->
-<h4>🗄️ Databases</h4>
+<h4>Databases</h4>
 <p>
   <a href="https://www.mongodb.com/" target="_blank"><img src="https://skillicons.dev/icons?i=mongodb&theme=dark" alt="MongoDB" title="MongoDB"/></a>
   <a href="https://www.postgresql.org/" target="_blank"><img src="https://skillicons.dev/icons?i=postgres&theme=dark" alt="PostgreSQL" title="PostgreSQL"/></a>
@@ -117,7 +96,7 @@ life_philosophy: "Code is poetry. AI is the canvas."
 </p>
 
 <!-- 🔧 TOOLS & PLATFORMS -->
-<h4>🔧 Tools & Platforms</h4>
+<h4>Tools & Platforms</h4>
 <p>
   <a href="https://git-scm.com/" target="_blank"><img src="https://skillicons.dev/icons?i=git&theme=dark" alt="Git" title="Git"/></a>
   <a href="https://www.docker.com/" target="_blank"><img src="https://skillicons.dev/icons?i=docker&theme=dark" alt="Docker" title="Docker"/></a>
