@@ -10,8 +10,7 @@
 <td align="center">
 <img alt="" width="400" src="data.svg" alt=""></img>
 </td>
-<br/><br/>
-
+<br/><
 <table>
 <tr>
 <td width="55%" valign="top">
