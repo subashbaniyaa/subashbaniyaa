@@ -1,13 +1,5 @@
 <div align="center">
 <td align="center">
-</td>
-  <br><div align="center">
-  <img src="https://www.animatedimages.org/data/media/56/animated-computer-image-0053.gif"
-     alt="animated-computer-image-0053">
-</div>
-<br>
-<div align="center">
-<td align="center">
 <img alt="" width="500" src="./assets/anime.svg" alt=""></img>
 </td>
   <br>
