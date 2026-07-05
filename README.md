@@ -1,16 +1,25 @@
 <div align="center">
-<td align="center">
-<img alt="" width="500" src="./assets/anime.svg" alt=""></img>
-</td>
-  <br>
-  <td align="center">
-<img alt="" width="500" src="./assets/waifu.svg" alt=""></img>
-</td>
-  <br>
-  <br>
-<td align="center">
-<img alt="" width="500" src="./assets/manga.svg" alt=""></img>
-</td>
+
+<table>
+  <tr>
+    <td align="center">
+      <img src="./assets/anime.svg" width="500" alt="Anime" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="./assets/waifu.svg" width="500" alt="Waifu" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="./assets/manga.svg" width="500" alt="Manga" />
+    </td>
+  </tr>
+</table>
+
+<br>
+
 <table>
   <tr>
     <td><b>Languages</b></td>
@@ -43,7 +52,7 @@
     </td>
   </tr>
 </table>
-  
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,16,18,20&height=80&section=footer"/>
-  
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,16,18,20&height=80&section=footer"/>
+
 </div>
