@@ -1,8 +1,6 @@
 <div align="center">
 
-<img src="./assets/anime.svg" width="500" alt="Anime" /><br/>
-<img src="./assets/waifu.svg" width="500" alt="Waifu" /><br/>
-<img src="./assets/manga.svg" width="500" alt="Manga" />
+<img src="./assets/data.svg" width="500" alt="Anime Waifu Manga Stats" />
 <br>
 <p align="center">
 
