@@ -5,13 +5,9 @@
     <td align="center">
       <img src="./assets/anime.svg" width="500" alt="Anime" />
     </td>
-  </tr>
-  <tr>
     <td align="center">
       <img src="./assets/waifu.svg" width="500" alt="Waifu" />
     </td>
-  </tr>
-  <tr>
     <td align="center">
       <img src="./assets/manga.svg" width="500" alt="Manga" />
     </td>
