@@ -1,10 +1,8 @@
 <div align="center">
 
-<table cellspacing="0" cellpadding="0">
-  <tr><td><img src="./assets/anime.svg" width="500" alt="Anime" /></td></tr>
-  <tr><td><img src="./assets/waifu.svg" width="500" alt="Waifu" /></td></tr>
-  <tr><td><img src="./assets/manga.svg" width="500" alt="Manga" /></td></tr>
-</table>
+<img src="./assets/anime.svg" width="500" alt="Anime" /><br/>
+<img src="./assets/waifu.svg" width="500" alt="Waifu" /><br/>
+<img src="./assets/manga.svg" width="500" alt="Manga" />
 <br>
 <p align="center">
 
