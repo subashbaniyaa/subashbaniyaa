@@ -1,14 +1,18 @@
 <div align="center">
 
-<table style="border-collapse:collapse;border-spacing:0">
+<table>
   <tr>
-    <td align="center" style="padding:0">
+    <td align="center">
       <img src="./assets/anime.svg" width="500" alt="Anime" />
     </td>
-    <td align="center" style="padding:0">
+  </tr>
+  <tr>
+    <td align="center">
       <img src="./assets/waifu.svg" width="500" alt="Waifu" />
     </td>
-    <td align="center" style="padding:0">
+  </tr>
+  <tr>
+    <td align="center">
       <img src="./assets/manga.svg" width="500" alt="Manga" />
     </td>
   </tr>
