@@ -49,7 +49,6 @@
 <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" width="50"/><br>Postman</td>
 </tr>
 
-<td colspan="8"></td>
 
 </table>
 
