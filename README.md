@@ -31,7 +31,7 @@
 <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="50"/><br>MongoDB</td>
 <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="50"/><br>Firebase</td>
 <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" width="50"/><br>Redis</td>
-<td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" width="50"/><br>Azure</td>
+<td align="center"><img src="https://www.vectorlogo.zone/logos/cloudflare/cloudflare-icon.svg" width="50"/><br>Cloudflare</td>
 </tr>
 
 <tr>
