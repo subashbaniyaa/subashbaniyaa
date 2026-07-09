@@ -1,7 +1,3 @@
-<div align="center">
-
-<img src="./assets/data.svg" width="500" alt="Anime Waifu Manga Stats" />
-<br>
 <p align="center">
 
 <table>
@@ -48,7 +44,6 @@
 <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="50"/><br>Figma</td>
 <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" width="50"/><br>Postman</td>
 </tr>
-
 
 </table>
 
