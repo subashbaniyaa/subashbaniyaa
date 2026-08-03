@@ -2,14 +2,8 @@
 
 <table align="center">
 
-<!-- Languages -->
+<!-- Row 1 -->
 <tr>
-<td align="center">
-<a href="https://www.python.org/" target="_blank">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50"/>
-</a><br>Python
-</td>
-
 <td align="center">
 <a href="https://developer.mozilla.org/docs/Web/JavaScript" target="_blank">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50"/>
@@ -33,14 +27,20 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50"/>
 </a><br>HTML
 </td>
-</tr>
 
-<!-- Frontend -->
-<tr>
 <td align="center">
 <a href="https://developer.mozilla.org/docs/Web/CSS" target="_blank">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50"/>
 </a><br>CSS
+</td>
+</tr>
+
+<!-- Row 2 -->
+<tr>
+<td align="center">
+<a href="https://www.python.org/" target="_blank">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50"/>
+</a><br>Python
 </td>
 
 <td align="center">
@@ -68,12 +68,18 @@
 </td>
 </tr>
 
-<!-- Backend & Cloud -->
+<!-- Row 3 -->
 <tr>
 <td align="center">
 <a href="https://www.npmjs.com/" target="_blank">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" width="50"/>
 </a><br>npm
+</td>
+
+<td align="center">
+<a href="https://firebase.google.com/" target="_blank">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="50"/>
+</a><br>Firebase
 </td>
 
 <td align="center">
@@ -93,20 +99,14 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="50"/>
 </a><br>MongoDB
 </td>
+</tr>
 
+<!-- Row 4 -->
+<tr>
 <td align="center">
 <a href="https://git-scm.com/" target="_blank">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50"/>
 </a><br>Git
-</td>
-</tr>
-
-<!-- Tools -->
-<tr>
-<td align="center">
-<a href="https://github.com/" target="_blank">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="50"/>
-</a><br>GitHub
 </td>
 
 <td align="center">
