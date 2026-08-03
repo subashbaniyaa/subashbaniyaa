@@ -1,6 +1,8 @@
 <div align="center">
 
 <table align="center">
+
+<!-- Languages -->
 <tr>
 <td align="center">
 <a href="https://www.python.org/" target="_blank">
@@ -21,12 +23,6 @@
 </td>
 
 <td align="center">
-<a href="https://en.cppreference.com/w/c" target="_blank">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="50"/>
-</a><br>C
-</td>
-
-<td align="center">
 <a href="https://isocpp.org/" target="_blank">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="50"/>
 </a><br>C++
@@ -37,7 +33,10 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50"/>
 </a><br>HTML
 </td>
+</tr>
 
+<!-- Frontend -->
+<tr>
 <td align="center">
 <a href="https://developer.mozilla.org/docs/Web/CSS" target="_blank">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50"/>
@@ -49,9 +48,7 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="50"/>
 </a><br>React
 </td>
-</tr>
 
-<tr>
 <td align="center">
 <a href="https://nextjs.org/" target="_blank">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="50"/>
@@ -69,11 +66,20 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="50"/>
 </a><br>Node.js
 </td>
+</tr>
+
+<!-- Backend & Cloud -->
+<tr>
+<td align="center">
+<a href="https://www.npmjs.com/" target="_blank">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" width="50"/>
+</a><br>npm
+</td>
 
 <td align="center">
-<a href="https://tailwindcss.com/" target="_blank">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="50"/>
-</a><br>Tailwind
+<a href="https://www.cloudflare.com/" target="_blank">
+<img src="https://www.vectorlogo.zone/logos/cloudflare/cloudflare-icon.svg" width="50"/>
+</a><br>Cloudflare
 </td>
 
 <td align="center">
@@ -89,25 +95,14 @@
 </td>
 
 <td align="center">
-<a href="https://firebase.google.com/" target="_blank">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="50"/>
-</a><br>Firebase
-</td>
-
-<td align="center">
-<a href="https://www.cloudflare.com/" target="_blank">
-<img src="https://www.vectorlogo.zone/logos/cloudflare/cloudflare-icon.svg" width="50"/>
-</a><br>Cloudflare
-</td>
-</tr>
-
-<tr>
-<td align="center">
 <a href="https://git-scm.com/" target="_blank">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50"/>
 </a><br>Git
 </td>
+</tr>
 
+<!-- Tools -->
+<tr>
 <td align="center">
 <a href="https://github.com/" target="_blank">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="50"/>
@@ -118,18 +113,6 @@
 <a href="https://www.linux.org/" target="_blank">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="50"/>
 </a><br>Linux
-</td>
-
-<td align="center">
-<a href="https://code.visualstudio.com/" target="_blank">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="50"/>
-</a><br>VS Code
-</td>
-
-<td align="center">
-<a href="https://vercel.com/" target="_blank">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vercel/vercel-original.svg" width="50"/>
-</a><br>Vercel
 </td>
 
 <td align="center">
